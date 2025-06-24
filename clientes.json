@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "Marcos Henrique dos Santos",
+        "idade": 29,
+        "email": "redemaismarcos@gmail.com",
+        "telefone": "(17) 99748-4392",
+        "cidade": "Itajobi"
+    },
+    {
+        "nome": "Rafaela aparecida bueno",
+        "idade": 31,
+        "email": "rafaelaredemais@gmail.com",
+        "telefone": "(17) 99627-1113",
+        "cidade": "Itajobi"
+    },
+    {
+        "nome": "Henrique Ramos Carmon",
+        "idade": 36,
+        "email": "henrique.carmon@gmail.com",
+        "telefone": "(17) 99745-3356",
+        "cidade": "Paraíso"
+    }
+]
